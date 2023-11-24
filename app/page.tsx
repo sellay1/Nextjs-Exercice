@@ -5,8 +5,6 @@ import Image from 'next/image';
 import { lusitana } from '@/app/ui/fonts';
 
 
-
-
 import Link from 'next/link';
 export default function Page() {
   return (
